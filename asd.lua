@@ -3,7 +3,7 @@ game.Loaded:Wait()
 end 
 
 --CREDITS + PROMOTES
- local A_1 = "1"
+ local A_1 = "Private eurCMD"
                 local A_2 = "All"
                 local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
                 Event:FireServer(A_1, A_2)
