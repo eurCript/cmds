@@ -1,4 +1,3 @@
--- Founders == [ eurCript and Aaron17aYT ] 
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
